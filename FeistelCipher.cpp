@@ -1,5 +1,5 @@
-// By 보건정책관리학부 채희재
-// 2012250416
+// By 채희재(Hee Jae Chae)
+// poongnewga@gmail.com
 // Feistel Cipher - 10 rounds
 // Create 10 subkey with 32bit Key
 
